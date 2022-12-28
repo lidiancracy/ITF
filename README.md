@@ -16,6 +16,9 @@ you need to train the bi_lstm first.
 ~~~
 sh run_itf.sh
 ~~~
+
+- we have trained some models,you can download from this link. https://www.aliyundrive.com/s/F8uY217NQpe
+
 Then, use generated model to predict method names.
 ~~~
 sh infer_itf.sh
