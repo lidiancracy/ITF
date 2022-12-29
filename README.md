@@ -12,9 +12,9 @@ https://pan.baidu.com/s/1WFEsFF9Fd5WJGinJ_5pcog?pwd=d9tg
 
 ### run the ITF
 
-~~~
-You can view the fasttext classifier and heuristic rules under the first-phase folder.
-~~~
+
+- You can view the fasttext classifier and heuristic rules under the first-phase folder.
+
 
 you need to train the bi_lstm first.
 ~~~
@@ -26,7 +26,7 @@ Then, use generated model to predict method names.
 sh infer_itf.sh
 ~~~
 
-~~~
+
 - we have trained some models,you can download from this link. 
 - https://pan.baidu.com/s/1o53cQ8wwCziQNmekhu-bBQ?pwd=u2ak
-~~~
+
