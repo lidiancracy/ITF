@@ -3,11 +3,11 @@ You can get the data set used in the paper at the following links.
 - new kui dataset
 https://www.aliyundrive.com/s/KdzieHyG9xt
 - new-100 dataset
-https://www.aliyundrive.com/s/Q5RHCdZBWL8
+https://pan.baidu.com/s/1RAMoEJUrtxZcpz3fJYmSsw?pwd=0nqx
 - new-400 dataset
 https://www.aliyundrive.com/s/5jM7pKdRamP
 - dataset used by RQ5
-https://www.aliyundrive.com/s/F1Eve9P8Me3
+https://pan.baidu.com/s/1WFEsFF9Fd5WJGinJ_5pcog?pwd=d9tg
 
 - You can view the fasttext classifier and heuristic rules under the first-phase folder.
 
