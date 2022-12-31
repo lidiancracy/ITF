@@ -42,16 +42,7 @@ if __name__ == '__main__':
             print('{} | {}'.format(predictName,name))
             predict_list.append(predictName)
             real_list.append(name)
-        else:
-            method_type=fastText_classification(classifier,context)
-            method_type=method_type.replace('__label__','')
-            predictName=predictor(method_type,context,body,summarizer)
-            name=hump2underline(name)
-            predictName=processMethodName(predictName)
-            name=processMethodName(name)
-            print('{} | {}'.format(predictName,name))
-            predict_list.append(predictName)
-            real_list.append(name)
+       
         with open('./pred.txt','a') as f:
             for predict in predict_list:
                 f.write('{}\n'.format(predict.strip()))
