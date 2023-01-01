@@ -11,7 +11,12 @@ https://pan.baidu.com/s/1WFEsFF9Fd5WJGinJ_5pcog?pwd=d9tg
 
 
 ### run the ITF
+#### Use the first step framework to recommend method names.
+~~~
+first-phase.sh
+~~~
 
+#### Use the second step framework to recommend method names.
 you need to train the bi_lstm first.
 ~~~
 sh run_itf.sh
