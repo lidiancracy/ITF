@@ -76,7 +76,7 @@ Once the model is trained, evaluate its performance:
 - Using the `code2seq.py` script, load the trained model and evaluate it on the test dataset. This step provides insights into the model's accuracy and other performance metrics.
 
 ```bash
-python3 code2seq.py --load [hidden_model_path]/model_iter52.release --test [hidden_data_path]/java-large.test.c2s
+python3 code2seq.py --load [hidden_model_path]/model.release --test [hidden_data_path]
 ```
 
 ##### Step 4: Model Examination
